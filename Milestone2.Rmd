@@ -1,0 +1,29 @@
+---
+title: "Milestone2"
+author: "Prachi Naik"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+**Commentary on Nicholas Dow's project, "Muller Report Text Analysis"** 
+
+*Pros*
+
+Nicholas's project takes on an important political moment. For several years, the forthcoming Muller Report loomed large in American national discourse, polarizing the political landscape and deepening the divide between policymakers and the public alike. When it was finally released, the pontifications only increased, and the chances that people (both commentators and consumers) had actually read the report were slim. In an increasingly distracted "fast media" age, Nicholas's project admirably seeks to make an otherwise hefty document more accessible to the public. This is a commendable undertaking, and the word trend visualizations (like the changing "sentiment over time" graphs) do a good job of allowing readers to be more textually informed in their evaluations of the report's political role. 
+
+*Cons*
+
+Some of the visualizations are too complex to make sense of. For example, the word frequency page was not very illustrative. If the point was to show which topics were treated in different chapters, perhaps there could have been a different visualization that did not require mapping what was happening in pages 250-300 in relation to pages 50-100. The purpose of having all the faceted graphs together was lost in the complexity. Also, there were several grammatical presentation errors that diminshed the overall professional aesthetic of the final product. 
+
+**Commentary on the Harvard Blocking Project**
+
+*Pros*
+The students in this group not only designed a social science experiment, but collected their own data set. They created and disseminated their own survey, which had a sizeable number of respondents (834) and variables (14). This is an impressive feat, especially considering how mcuh attention they paid to principles of randomization and privacy. They made use of excellent benchmarking, comparing their data to other publicly available data sources, like the survey disseminated by the Crimson. The side-by-side chart comparison was very useful. The clean formatting and clear writing made their project accessible and digestible. 
+
+*Cons*
+The graphs, while very visually appealing and informative, could have used explanations. They were not self-explanatory. The questions tab on the page "How do students form groups?" was great, but a synthesizing analysis was missing. While the set-up of the project was strong, there was no tab dedicated to takeaways, which meant that the students' important analytical work was left uninterpreted. 
